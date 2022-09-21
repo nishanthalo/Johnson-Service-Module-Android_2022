@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/drawable/cmrl_login_background.xml" value="0.2245" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/drawable/ic_back_arrow.xml" value="0.2285" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.2245" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/drawable/ic_person_red.xml" value="0.2245" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/drawable/ic_profile_red.xml" value="0.2245" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/drawable/johnson_orange.xml" value="0.2245" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/drawable/ms__arrow.xml" value="0.2245" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/drawable/right_arrow_white.xml" value="0.2245" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout-xlarge/activity_preventivemrlistone.xml" value="0.371875" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout-xlarge/adapter_breakdownmrlistone.xml" value="0.1859375" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout-xlarge/adapter_breakdownmrlisttwo.xml" value="0.1859375" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout-xlarge/dialog_agent.xml" value="0.2" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_agent_list_new_screen.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_agent_pop_new_screen.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_bd_details.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_breakdown_mrlist_one.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_breakdown_mrlisttwo.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customer_details.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customer_details_new_screen.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_daily_collection_details.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_dashbaord_main.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_feedback_group.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_job_details_breakdown_mractivity.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_job_details_mraactivity.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_job_details_preventive_mractivity.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_job_list_new_screen.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_main.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_main_menu_services.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_material_request.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_mrforms_preventive_mractivity.xml" value="0.264" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_preventive_checklist.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_preventive_mrlist_one.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_preventive_mrlisttwo.xml" value="0.23385416666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_preventive_service.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_rtgs_pop.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_sample.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_services_list_new_screen.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_technician_signature.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_techniciansignature_breakdownmr.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_ui_servenq_request.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/adapter_preventivemrlistone.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/adapter_preventivemrlisttwo.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/dialog_logout.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/pop_list.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/rv_item.xml" value="0.23385416666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/rv_item1.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/rv_item2.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/services_item.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/services_item1.xml" value="0.24791666666666667" />
+        <entry key="..\:/Android Program/nishath_File/12.8.22/johnson_mobile_android_2021-main (5)/johnson_mobile_android_2021-main/app/src/main/res/layout/spinner_item.xml" value="0.24791666666666667" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customer_acknowledgement.xml" value="0.1" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customer_details.xml" value="0.1431159420289855" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customer_details_breakdown.xml" value="0.1431159420289855" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customer_details_lrservicer.xml" value="0.25" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customeracknowledgement_lrservice.xml" value="0.18" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customerdetails_lrservice.xml" value="0.1431159420289855" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customerdetailslrservice.xml" value="0.1431159420289855" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_job_details_breakdown_mractivity.xml" value="0.14945652173913043" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_jobdetails_lrservice.xml" value="0.14945652173913043" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_lrdetails.xml" value="0.1431159420289855" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_lrservice.xml" value="0.14945652173913043" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_paused_services_breakdown_mractivity.xml" value="0.11458333333333333" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_technician_signature_preventive_mractivity.xml" value="0.11770833333333333" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_techniciansignature_breakdownmr.xml" value="0.1" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_techniciansignature_lrservice.xml" value="0.18" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/adapter_jobdetails_lrservice.xml" value="0.22" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/adapter_preventivemrlistone.xml" value="0.1375" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/imagebased_popup_layout.xml" value="0.1" />
+        <entry key="..\:/Nish/johnson_mobile_nish_01.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/services_item2.xml" value="0.14945652173913043" />
+        <entry key="..\:/Nish/johnson_mobile_nish_02.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customerdetails_lrservice.xml" value="0.12083333333333333" />
+        <entry key="..\:/Nish/johnson_mobile_nish_02.9.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_technician_signature_preventive_mractivity.xml" value="0.15" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout-xlarge/adapter_preventivemrlisttwo.xml" value="0.1" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_breakdown_mr.xml" value="0.1" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customer_details_breakdown_mr.xml" value="0.25" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customer_details_lrservicer.xml" value="0.12708333333333333" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customer_details_pre.xml" value="0.33" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customer_details_preventive.xml" value="0.1" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customer_details_preventive_mr.xml" value="0.25" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_job_details_breakdown_mractivity.xml" value="0.161231884057971" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_jobdetails_lrservice.xml" value="0.15364583333333334" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_lrservice.xml" value="0.18" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_main_menu_services.xml" value="0.1" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_paused_services_breakdown_mractivity.xml" value="0.18" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_paused_services_preventive_mr.xml" value="0.1" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_recycler_spinner.xml" value="0.13020833333333334" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_technician_signature_breakdown_mr.xml" value="0.1265625" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_techniciansignature_breakdownmr.xml" value="0.1265625" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/adapter_breakdownmrlistone.xml" value="0.153125" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/adapter_breakdownmrlisttwo.xml" value="0.153125" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/adapter_jobdetails_lrservice.xml" value="0.18795289855072464" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/adapter_preventivemrlisttwo.xml" value="0.1078125" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/re_spinner.xml" value="0.16302083333333334" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/services_item1.xml" value="0.22" />
+        <entry key="..\:/Nish/johnson_mobile_nish_23.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/services_item3.xml" value="0.17083333333333334" />
+        <entry key="..\:/Nish/johnson_mobile_nish_31.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_mrforms_preventive_mractivity.xml" value="0.1" />
+        <entry key="..\:/Nish/johnson_mobile_nish_31.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_preventive_mr.xml" value="0.18" />
+        <entry key="..\:/Users/Triton - DotNet/Desktop/johnson_mobile_nish_24.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_customer_details_breakdown_mr.xml" value="0.1" />
+        <entry key="..\:/Users/Triton - DotNet/Desktop/johnson_mobile_nish_24.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_splash.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/Triton - DotNet/Desktop/johnson_mobile_nish_24.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/services_item2.xml" value="0.15" />
+        <entry key="..\:/Users/Triton - DotNet/Desktop/johnson_mobile_nish_25.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_preventive_mrlisttwo.xml" value="0.1" />
+        <entry key="..\:/Users/Triton - DotNet/Desktop/johnson_mobile_nish_25.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/bd_card.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Triton - DotNet/Desktop/johnson_mobile_nish_25.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/feedback_card.xml" value="0.1" />
+        <entry key="..\:/Users/Triton - DotNet/Desktop/johnson_mobile_nish_26.8.2022/johnson_mobile_android_2021-main/app/src/main/res/layout/activity_mrforms_breakdown_mractivity.xml" value="0.11041666666666666" />
+        <entry key="app/src/main/res/drawable/checkin_background.xml" value="0.1295" />
+        <entry key="app/src/main/res/drawable/child_back_ground.xml" value="0.117" />
+        <entry key="app/src/main/res/drawable/edit_background_with_border.xml" value="0.1275" />
+        <entry key="app/src/main/res/drawable/exit_button_background.xml" value="0.1295" />
+        <entry key="app/src/main/res/drawable/ic_back_arrow.xml" value="0.1615" />
+        <entry key="app/src/main/res/layout/activity_ackservice.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_addetailssiteaudit.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/activity_bd_details.xml" value="0.19074074074074074" />
+        <entry key="app/src/main/res/layout/activity_breakdown_mr.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/activity_breakdown_mrlist_one.xml" value="0.14270833333333333" />
+        <entry key="app/src/main/res/layout/activity_breakdown_mrlisttwo.xml" value="0.20677083333333332" />
+        <entry key="app/src/main/res/layout/activity_checklist_audit.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_customer_acknowledgement.xml" value="0.18385416666666668" />
+        <entry key="app/src/main/res/layout/activity_customer_acknowledgement_preventive.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_customer_details.xml" value="0.14635416666666667" />
+        <entry key="app/src/main/res/layout/activity_customer_details_breakdown.xml" value="0.14635416666666667" />
+        <entry key="app/src/main/res/layout/activity_customer_details_breakdown_mr.xml" value="0.14635416666666667" />
+        <entry key="app/src/main/res/layout/activity_customer_details_preventive.xml" value="0.14635416666666667" />
+        <entry key="app/src/main/res/layout/activity_customer_details_preventive_mr.xml" value="0.14635416666666667" />
+        <entry key="app/src/main/res/layout/activity_customeracknowledgement_lrservice.xml" value="0.20677083333333332" />
+        <entry key="app/src/main/res/layout/activity_customerdetails_lrservice.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_esc_trv.xml" value="0.22760416666666666" />
+        <entry key="app/src/main/res/layout/activity_feedback_details.xml" value="0.24322916666666666" />
+        <entry key="app/src/main/res/layout/activity_feedback_group.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_job_details.xml" value="0.18645833333333334" />
+        <entry key="app/src/main/res/layout/activity_job_details_breakdown_mractivity.xml" value="0.15520833333333334" />
+        <entry key="app/src/main/res/layout/activity_job_details_mraactivity.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_job_details_preventive.xml" value="0.18645833333333334" />
+        <entry key="app/src/main/res/layout/activity_job_details_preventive_mractivity.xml" value="0.10833333333333334" />
+        <entry key="app/src/main/res/layout/activity_job_details_siteaudit.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/activity_jobdetails_ackservice.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_jobdetails_lrservice.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_liftaudit.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_lrdetails.xml" value="0.28790983606557374" />
+        <entry key="app/src/main/res/layout/activity_lrservice.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_materialdetailsack.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_materialrequest_audit.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_mrdetails.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_mrforms_breakdown_mractivity.xml" value="0.14270833333333333" />
+        <entry key="app/src/main/res/layout/activity_mrforms_preventive_mractivity.xml" value="0.1203125" />
+        <entry key="app/src/main/res/layout/activity_mrformsone_siteaudit.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_mrformstwo_siteaudit.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/layout/activity_preventive_maintance_list.xml" value="0.17239583333333333" />
+        <entry key="app/src/main/res/layout/activity_preventive_mr.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/activity_preventive_mrlist_one.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_preventive_mrlisttwo.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_preventive_service.xml" value="0.18645833333333334" />
+        <entry key="app/src/main/res/layout/activity_recycler_spinner.xml" value="0.1421875" />
+        <entry key="app/src/main/res/layout/activity_siteaudit.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/activity_start_job_breakdown_mr.xml" value="0.240625" />
+        <entry key="app/src/main/res/layout/activity_start_job_preventive_mr.xml" value="0.240625" />
+        <entry key="app/src/main/res/layout/activity_startjob_ack.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_startjob_lrservice.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/activity_startjob_siteaudit.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_technician_signature.xml" value="0.18385416666666668" />
+        <entry key="app/src/main/res/layout/activity_technician_signature_breakdown_mr.xml" value="0.1328125" />
+        <entry key="app/src/main/res/layout/activity_technician_signature_preventive_mractivity.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_techniciansignature_breakdownmr.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_techniciansignature_lrservice.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_techniciansignature_siteaudit.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/adapter_jobdetails_siteaudit.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/adapter_materialdetailsack.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/adapter_preventivemrlisttwo.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/adpter_liftaudit.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/audit_checklist.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/bd_card.xml" value="0.196875" />
+        <entry key="app/src/main/res/layout/checklist_audit.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/feedback_card.xml" value="0.22708333333333333" />
+        <entry key="app/src/main/res/layout/monthlist_preventive.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/re_spinner.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/user_rv_item.xml" value="0.2947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
